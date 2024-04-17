@@ -11,7 +11,7 @@ Tech Stack:
 	
 	Quantum Computing: Qiskit & Cirq.
 
- 	Secure Multi-Party Computation: PySyft.
+ 	Multi-Party Computation: PySyft.
 
  	Machine Learning: Pennylane & TensorFlow Quantum.
 
